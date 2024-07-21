@@ -19,6 +19,7 @@
         <main>
             @yield('container')
         </main>
+        @include('layouts.footer')
     </div>
 </body>
 </html>

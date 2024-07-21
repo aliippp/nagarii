@@ -1,4 +1,4 @@
-<header class="navbar navbar-expand-lg navbar-light sticky-top shadow-sm" id="mainNav">
+<header class="navbar navbar-expand-lg bg-body-tertiary sticky-top shadow-sm" id="mainNav">
     <div class="container-fluid px-5 py-3">
         <a class="navbar-brand fw-bold" href="/">
             <img height="40" src="{{ asset('img/logo.png') }}" alt="..."/>
@@ -24,7 +24,6 @@
                     </ul>
                   </li>
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#">Informasi</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#">e-Surat</a></li>
             </ul>
         </div>
     </div>
